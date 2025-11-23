@@ -2,7 +2,7 @@
 
 ### Name : Md Arif Hossin
 
-### Email: arif2ankhi@gmaIL.COM
+### Email: arif2ankhi@gmail.com
 
 ##Repository: https://github.com/Arif2ankhi/Portfolio-2025
 
